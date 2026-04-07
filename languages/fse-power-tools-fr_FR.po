@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FSE Power Tools 2.0.8\n"
+"POT-Creation-Date: 2025-11-14 01:00+0100\n"
+"PO-Revision-Date: 2025-11-14 01:00+0100\n"
+"Last-Translator: tlloancy\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: FSE Power Tools\n"
+"X-Domain: fse-power-tools\n"
+
+#: fse-power-tools.php:47
+msgid "Unauthorized."
+msgstr "Accès non autorisé."
+
+#: fse-power-tools.php:52
+msgid "FSE Power Tools"
+msgstr "FSE Power Tools"
+
+#: fse-power-tools.php:54
+msgid "JS"
+msgstr "JS"
+
+#: fse-power-tools.php:55
+msgid "CSS"
+msgstr "CSS"
+
+#: fse-power-tools.php:56
+msgid "Site Editor"
+msgstr "Éditeur de site"
+
+#: fse-power-tools.php:61
+msgid "Save JS"
+msgstr "Enregistrer JS"
+
+#: fse-power-tools.php:66
+msgid "Save CSS"
+msgstr "Enregistrer CSS"
+
+#: fse-power-tools.php:88
+msgid "Saved!"
+msgstr "Enregistré !"
+
+#: fse-power-tools.php:88
+msgid "Error"
+msgstr "Erreur"
+
+#: fse-power-tools.php:92
+msgid "AJAX Error"
+msgstr "Erreur AJAX"
