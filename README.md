@@ -1,7 +1,7 @@
 # FSE-Power-Tools
 === FSE Power Tools ===
 
-- Contributors: tlloancy
+Contributors: tlloancy
 - Tags: fse, javascript, css, site-editor, custom-code
 - Requires at least: 6.0
 - Tested up to: 6.8
