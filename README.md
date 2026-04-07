@@ -35,7 +35,7 @@ A powerful tool to add **custom JavaScript and CSS** globally, plus **Site Edito
 = 1.0.0 =
 * Initial release
 
-== Komplainte de KRANK X2 ==
+# Komplainte de KRANK X2
 
 # FSE Power Tools
 
